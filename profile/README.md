@@ -2,7 +2,7 @@
 
 # 🏢 Badan Pendapatan Daerah (BAPENDA) Provinsi Kalimantan Selatan
 
-![Bapenda Kalsel Logo](https://bapenda.kalselprov.go.id/wp-content/uploads/2022/10/logo-bapenda-kalsel-1.png)
+![Bapenda Kalsel Logo](Logo.png)
 
 *Melayani dengan Profesional, Transparan, dan Akuntabel*
 
