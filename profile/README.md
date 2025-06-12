@@ -8,7 +8,7 @@
 
 [![Website](https://img.shields.io/badge/Website-bapenda.kalselprov.go.id-blue?style=for-the-badge)](https://bapenda.kalselprov.go.id)
 [![Email](https://img.shields.io/badge/Email-bapenda@kalselprov.go.id-red?style=for-the-badge)](mailto:bapenda@kalselprov.go.id)
-[![Instagram](https://img.shields.io/badge/Instagram-@bapenda.kalsel-purple?style=for-the-badge&logo=instagram)](https://instagram.com/bapenda.kalsel)
+[![Instagram](https://img.shields.io/badge/Instagram-@bapendaprovkalselofficial-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/bapendaprovkalselofficial/?hl=en)
 
 </div>
 
@@ -33,7 +33,7 @@ Terwujudnya pengelolaan pendapatan daerah yang optimal dan berkelanjutan untuk m
 
 | Foto | Nama | Posisi | GitHub |
 |:----:|:----:|:-------:|:-----:|
-| <img src="https://github.com/Muharir17.png" width="75"> | Muharir | 🔱 Chief Technology Officer & Backend Architect | [Muharir17](https://github.com/Muharir17) |
+| <img src="https://github.com/Muharir17.png" width="75"> | Muharir | 🔱 Chief Technology Officer & Backend | [Muharir17](https://github.com/Muharir17) |
 | <img src="https://github.com/yugosetiawanesia.png" width="75"> | Yugo Setiawan | ⚙️ DevOps & Infrastructure Specialist | [yugosetiawanesia](https://github.com/yugosetiawanesia) |
 | <img src="https://github.com/nrmadi02.png" width="75"> | Nur Ahmadi | 🎨 Frontend Expert & Backend Developer | [nrmadi02](https://github.com/nrmadi02) |
 | <img src="https://github.com/Ihya217.png" width="75"> | Ihya Ulumuddin | 🔄 Fullstack Development | [Ihya217](https://github.com/Ihya217) |
