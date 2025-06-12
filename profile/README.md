@@ -29,15 +29,42 @@ Terwujudnya pengelolaan pendapatan daerah yang optimal dan berkelanjutan untuk m
 
 ## 👥 Tim Pengembang
 
-<div align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
-| Foto | Nama | Posisi | GitHub |
-|:----:|:----:|:-------:|:-----:|
-| <img src="https://github.com/Muharir17.png" width="75"> | Muharir | 🔱 Chief Technology Officer & Backend | [Muharir17](https://github.com/Muharir17) |
-| <img src="https://github.com/yugosetiawanesia.png" width="75"> | Yugo Setiawan | ⚙️ DevOps & Infrastructure Specialist | [yugosetiawanesia](https://github.com/yugosetiawanesia) |
-| <img src="https://github.com/nrmadi02.png" width="75"> | Nur Ahmadi | 🎨 Frontend Expert & Backend Developer | [nrmadi02](https://github.com/nrmadi02) |
-| <img src="https://github.com/Ihya217.png" width="75"> | Ihya Ulumuddin | 🔄 Fullstack Development | [Ihya217](https://github.com/Ihya217) |
-| <img src="https://github.com/aqsal-aqsal.png" width="75"> | Aqsal | 🎭 UI/UX Designer & Social Media Manager | [aqsal-aqsal](https://github.com/aqsal-aqsal) |
+<div align="center">
+  <img src="https://github.com/Muharir17.png" width="100" style="border-radius: 50%; border: 3px solid #4CAF50;">
+  <h3>Muharir</h3>
+  <p>🔱 Chief Technology Officer & Backend</p>
+  <a href="https://github.com/Muharir17">@Muharir17</a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/yugosetiawanesia.png" width="100" style="border-radius: 50%; border: 3px solid #2196F3;">
+  <h3>Yugo Setiawan</h3>
+  <p>⚙️ DevOps & Infrastructure Specialist</p>
+  <a href="https://github.com/yugosetiawanesia">@yugosetiawanesia</a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/nrmadi02.png" width="100" style="border-radius: 50%; border: 3px solid #FF9800;">
+  <h3>Nur Ahmadi</h3>
+  <p>🎨 Frontend Expert & Backend Developer</p>
+  <a href="https://github.com/nrmadi02">@nrmadi02</a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/Ihya217.png" width="100" style="border-radius: 50%; border: 3px solid #9C27B0;">
+  <h3>Ihya Ulumuddin</h3>
+  <p>🔄 Fullstack Development</p>
+  <a href="https://github.com/Ihya217">@Ihya217</a>
+</div>
+
+<div align="center">
+  <img src="https://github.com/aqsal-aqsal.png" width="100" style="border-radius: 50%; border: 3px solid #F44336;">
+  <h3>Aqsal</h3>
+  <p>🎭 UI/UX Designer & Social Media Manager</p>
+  <a href="https://github.com/aqsal-aqsal">@aqsal-aqsal</a>
+</div>
 
 </div>
 
