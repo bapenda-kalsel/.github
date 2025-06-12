@@ -32,35 +32,35 @@ Terwujudnya pengelolaan pendapatan daerah yang optimal dan berkelanjutan untuk m
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
 <div align="center">
-  <img src="https://github.com/Muharir17.png" width="100" style="border-radius: 50%; border: 3px solid #4CAF50;">
+  <img src="https://github.com/Muharir17.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #4CAF50;">
   <h3>Muharir</h3>
   <p>👨‍💻 Chief Technology Officer & Backend</p>
   <a href="https://github.com/Muharir17">@Muharir17</a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/yugosetiawanesia.png" width="100" style="border-radius: 50%; border: 3px solid #2196F3;">
+  <img src="https://github.com/yugosetiawanesia.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #2196F3;">
   <h3>Yugo Setiawan</h3>
   <p>⚙️ DevOps & Infrastructure Specialist</p>
   <a href="https://github.com/yugosetiawanesia">@yugosetiawanesia</a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/nrmadi02.png" width="100" style="border-radius: 50%; border: 3px solid #FF9800;">
+  <img src="https://github.com/nrmadi02.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #FF9800;">
   <h3>Nur Ahmadi</h3>
   <p>🎨 Frontend Expert & Backend Developer</p>
   <a href="https://github.com/nrmadi02">@nrmadi02</a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/Ihya217.png" width="100" style="border-radius: 50%; border: 3px solid #9C27B0;">
+  <img src="https://github.com/Ihya217.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #9C27B0;">
   <h3>Ihya Ulumuddin</h3>
   <p>🔄 Fullstack Development</p>
   <a href="https://github.com/Ihya217">@Ihya217</a>
 </div>
 
 <div align="center">
-  <img src="https://github.com/aqsal-aqsal.png" width="100" style="border-radius: 50%; border: 3px solid #F44336;">
+  <img src="https://github.com/aqsal-aqsal.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #F44336;">
   <h3>Aqsal</h3>
   <p>🎭 UI/UX Designer & Social Media Manager</p>
   <a href="https://github.com/aqsal-aqsal">@aqsal-aqsal</a>
