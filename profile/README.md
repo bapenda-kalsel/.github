@@ -34,7 +34,7 @@ Terwujudnya pengelolaan pendapatan daerah yang optimal dan berkelanjutan untuk m
 <div align="center">
   <img src="https://github.com/Muharir17.png" width="100" style="border-radius: 50%; border: 3px solid #4CAF50;">
   <h3>Muharir</h3>
-  <p>🔱 Chief Technology Officer & Backend</p>
+  <p>👨‍💻 Chief Technology Officer & Backend</p>
   <a href="https://github.com/Muharir17">@Muharir17</a>
 </div>
 
