@@ -53,6 +53,13 @@ Terwujudnya pengelolaan pendapatan daerah yang optimal dan berkelanjutan untuk m
 </div>
 
 <div align="center">
+  <img src="https://github.com/yadija.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #9C27B0;">
+  <h3>Achmad Yuliadi</h3>
+  <p>🔄 Fullstack Development</p>
+  <a href="https://github.com/yadija">@yadija</a>
+</div>
+
+<div align="center">
   <img src="https://github.com/Ihya217.png" width="100" height="100" style="border-radius: 50%; border: 3px solid #9C27B0;">
   <h3>Ihya Ulumuddin</h3>
   <p>🔄 Fullstack Development</p>
